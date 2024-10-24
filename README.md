@@ -58,14 +58,6 @@ To run this project, ensure you have the required libraries installed. You can i
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## Usage
-1. Download the `train.csv` file and place it in the same directory as the script.
-2. Run the script using Python:
-
-```bash
-python your_script_name.py
-```
-
 ## Results
 ### Model Evaluation Metrics
 - **Logistic Regression**
